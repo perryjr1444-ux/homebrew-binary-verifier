@@ -6,7 +6,7 @@ This is a Homebrew tap for the Binary Verifier tool.
 
 ```bash
 # Add this tap
-brew tap yourusername/binary-verifier
+brew tap perryjr1444-ux/binary-verifier
 
 # Install binary-verifier
 brew install binary-verifier
@@ -35,5 +35,5 @@ brew upgrade binary-verifier
 
 ```bash
 brew uninstall binary-verifier
-brew untap yourusername/binary-verifier
+brew untap perryjr1444-ux/binary-verifier
 ```
